@@ -1,12 +1,11 @@
-## Hi there 👋
+# 公共仓库使用说明 👋
+## 简介
+🙋‍♀️ 本组织的创建是为了日常记录与共享我们小组的科研过程，更新各位同学的科研进展，方便大家的交流与学习。本组织以科研或者项目为导引，创建对应的仓库，记录项目情况、保存科研进展。
+对项目感兴趣的同学可以通过查看对应的仓库进行学习，同时希望大家能良好维护仓库，鼓励及时上传自己的科研进展（文件不限于代码、设计原始文件、思维导图等等）。
 
-<!--
+## 使用权限说明
+🍿所有组织成员均会拥有对组织下所有仓库的读取权限，并拥有自己参与项目的写入权限。各组织成员均有创建新仓库与新团队的权限。建议各项目负责人创建自己的仓库，并对各自项目仓库进行管理与维护。
 
-**Here are some ideas to get you started:**
+👩‍💻为了方便大家使用，组织不会对成员设置繁杂的限制权限，请大家不要衫裤跑路😂🙏🏻🙏🏻🙏🏻
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> 所有说明：组织由所有者或管理员进行维护，产生的资料文件由大家共享使用，产生的权利与成果由组织成员与实验室或团队共同享有。
